@@ -40,7 +40,7 @@ It offers:
 krishi-bandhu/
 │
 ├── app.py             # Main application
-├── static/uploads/    # Uploaded crop images
+├── static/uploads/    # Ui 
 ├── templates/         # HTML templates (assumed)
 ├── .env               # Environment variables (not committed)
 └── README.md          # Project documentation
