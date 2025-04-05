@@ -18,7 +18,7 @@ It offers:
 - **Crop Image Scanner:** Upload a photo to identify crops, detect diseases, and receive recommendations.
 - **Weather Support:** Integrates weather updates for better farming decisions.
 - **Focus Areas:** Climate-resilient crops, soil health, water conservation, pest management, government schemes.
-- **Local Customization:** Tailored for regions like Siddharthnagar, Uttar Pradesh (alluvial soils, 980mm rainfall).
+- **Local Customization:** Tailored for different regions of India  
 
 ---
 
