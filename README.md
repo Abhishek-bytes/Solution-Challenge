@@ -31,7 +31,7 @@ It offers:
 - **Pillow (PIL)** — Image processing
 - **dotenv** — Environment variable management
 - **Requests** — API requests
-- **HTML/CSS** — Templates (assumed in `templates/` folder)
+- **HTML/CSS** — Templates (assumed in `templates/` , "static" folder)
 
 ---
 
