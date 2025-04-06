@@ -13,10 +13,6 @@ body {
   z-index: 1030;
 }
 
-main {
-  margin-top: 76px; /* Height of navbar + some padding */
-}
-
 .hero-section {
   background: linear-gradient(rgba(255,255,255,0.9), rgba(255,255,255,0.9)), 
               url('../images/bg.jpg') no-repeat center center;
@@ -139,4 +135,9 @@ main {
       margin-left: 0;
       margin-right: 0;
   }
+}
+
+/* Add padding to main content to account for fixed navbar */
+main.container {
+  padding-top: 76px; /* Height of navbar + some extra space */
 }
