@@ -2,7 +2,7 @@
 
 ---
 
-# Krishi Bandhu 🌾
+# Krishi Bandhu 
 **AI Agricultural Expert and Crop Image Analyzer for Small Farmers**
 
 Krishi Bandhu is a Flask-based web application that empowers small farmers in India with AI-powered agricultural support.  
